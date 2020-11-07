@@ -1,5 +1,5 @@
-# Curso Microsserviços Java com Spring Boot e Spring Cloud
-### Instrutor Nelio Alvex da Udemy
+# Curso Microsserviços Java com Spring Boot e Spring  Cloud
+### Instrutor Nelio Alves
 # Fase 1: Comunicação simples, Feign, Ribbon
 
 ### 1.1 Criar projeto hr-worker
